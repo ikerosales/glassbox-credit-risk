@@ -1,0 +1,12 @@
+# local only
+.claude/
+.venv/
+class_notebooks/
+Claude outputs/
+dudas.txt
+XAI_Phase1_logical_models copy.ipynb
+XAI_Phase2_logical_models.ipynb
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/

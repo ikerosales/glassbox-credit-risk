@@ -1,0 +1,73 @@
+\begin{thebibliography}{10}
+
+\bibitem{angelino2018}
+Elaine Angelino, Nicholas Larus-Stone, Daniel Alabi, Margo Seltzer, and Cynthia
+  Rudin.
+\newblock Learning certifiably optimal rule lists for categorical data.
+\newblock {\em Journal of Machine Learning Research}, 18(234):1--78, 2018.
+
+\bibitem{breiman1984}
+Leo Breiman, Jerome~H. Friedman, Richard~A. Olshen, and Charles~J. Stone.
+\newblock {\em Classification and Regression Trees}.
+\newblock Wadsworth, 1984.
+
+\bibitem{cohen1995}
+William~W. Cohen.
+\newblock Fast effective rule induction.
+\newblock In {\em Proceedings of the 12th International Conference on Machine
+  Learning (ICML)}, pages 115--123, 1995.
+
+\bibitem{letham2015}
+Benjamin Letham, Cynthia Rudin, Tyler~H. McCormick, and David Madigan.
+\newblock Interpretable classifiers using rules and {B}ayesian analysis:
+  Building a better stroke prediction model.
+\newblock {\em The Annals of Applied Statistics}, 9(3):1350--1371, 2015.
+
+\bibitem{lin2020gosdt}
+Jimmy Lin, Chudi Zhong, Diane Hu, Cynthia Rudin, and Margo Seltzer.
+\newblock Generalized and scalable optimal sparse decision trees.
+\newblock In {\em Proceedings of the 37th International Conference on Machine
+  Learning (ICML)}, pages 6150--6160, 2020.
+
+\bibitem{mctavish2022}
+Hayden McTavish, Chudi Zhong, Reto Achermann, Ilias Karimalis, Jacques Chen,
+  Cynthia Rudin, and Margo Seltzer.
+\newblock Fast sparse decision tree optimization via reference ensembles.
+\newblock In {\em Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~36, pages 9604--9613, 2022.
+
+\bibitem{slidesInterpretable}
+B.~Mihaljevi{\'c}.
+\newblock Interpretable machine learning.
+\newblock Transparencias de la asignatura Inteligencia Artificial Explicable,
+  ETSIINF, Universidad Polit{\'e}cnica de Madrid, 2026.
+
+\bibitem{slidesLogical}
+B.~Mihaljevi{\'c}.
+\newblock Machine learning fundamentals: Logical models.
+\newblock Transparencias de la asignatura Inteligencia Artificial Explicable,
+  ETSIINF, Universidad Polit{\'e}cnica de Madrid, 2026.
+
+\bibitem{pedregosa2011}
+Fabian Pedregosa et~al.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{rudin2019}
+Cynthia Rudin.
+\newblock Stop explaining black box machine learning models for high stakes
+  decisions and use interpretable models instead.
+\newblock {\em Nature Machine Intelligence}, 1(5):206--215, 2019.
+
+\bibitem{singh2021imodels}
+Chandan Singh, Keyan Nasseri, Yan~Shuo Tan, Tiffany Tang, and Bin Yu.
+\newblock imodels: a {P}ython package for fitting interpretable models.
+\newblock {\em Journal of Open Source Software}, 6(61):3192, 2021.
+
+\bibitem{yeh2009}
+I-Cheng Yeh and Che-hui Lien.
+\newblock The comparisons of data mining techniques for the predictive accuracy
+  of probability of default of credit card clients.
+\newblock {\em Expert Systems with Applications}, 36(2):2473--2480, 2009.
+
+\end{thebibliography}
