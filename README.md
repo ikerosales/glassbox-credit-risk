@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/ikerosales/glassbox-credit-risk/blob/main/XAI_Phase1_logical_models.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open part 1 in Colab"></a>
+  <a href="https://colab.research.google.com/github/ikerosales/glassbox-credit-risk/blob/main/01-logical-models.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open part 1 in Colab"></a>
   &nbsp;
-  <a href="https://colab.research.google.com/github/ikerosales/glassbox-credit-risk/blob/main/XAI_Phase2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open part 2 in Colab"></a>
+  <a href="https://colab.research.google.com/github/ikerosales/glassbox-credit-risk/blob/main/02-tree-vs-logistic-vs-ebm.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open part 2 in Colab"></a>
   <br>
   <sub>Part 1: logical models &nbsp;·&nbsp; Part 2: tree vs logistic regression vs EBM</sub>
 </p>
@@ -179,8 +179,8 @@ Since each model expresses importance in its own units (path, coefficient, curve
 ## Running it
 
 ```
-├── XAI_Phase1_logical_models.ipynb   part 1: CART, GOSDT, rule lists, RIPPER
-├── XAI_Phase2.ipynb                  part 2: GOSDT vs lasso LR vs EBM, global + local + conflicts
+├── 01-logical-models.ipynb           part 1: CART, GOSDT, rule lists, RIPPER
+├── 02-tree-vs-logistic-vs-ebm.ipynb  part 2: GOSDT vs lasso LR vs EBM, global + local + conflicts
 ├── train.csv / test.csv              the data
 ├── data-dictionary.xlsx              variable definitions and interpretation cautions
 ├── requirements.txt
@@ -207,4 +207,10 @@ Dataset: [Default of Credit Card Clients](https://archive.ics.uci.edu/dataset/35
 
 ## Team
 
-**Pratham Jaikishan Bakshani Karamchandani**, **Hugo Aguilar Sanchez** and **Iker Rosales Saiz** ([@ikerosales](https://github.com/ikerosales)), while studying the Master's in Artificial Intelligence at Universidad Politécnica de Madrid.
+| | |
+|:--|:--|
+| **Pratham Jaikishan Bakshani Karamchandani** | [@prathamjbk](https://github.com/prathamjbk) |
+| **Hugo Aguilar Sanchez** | [@hugoaguilarsanchezz](https://github.com/hugoaguilarsanchezz) |
+| **Iker Rosales Saiz** | [@ikerosales](https://github.com/ikerosales) |
+
+Built while studying the Master's in Artificial Intelligence at Universidad Politécnica de Madrid.
